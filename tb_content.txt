@@ -1,0 +1,177 @@
+"35"	"89"	"Java核心技术 卷I"	"Java技术"	"原书第10版！Java领域极具影响力和价值的著作之一，与《Java编程思想》齐名，10余年全球畅销不衰，【现已更新至第11版】"	"http://product.dangdang.com/24035306.html"	"http://192.168.25.133/group1/M00/00/00/wKgZhV4623iAE20gAAF8VUDS620170.jpg"	""	"<div class=""t_box_left"" id=""detail_all"">
+	<div class=""pro_content"" id=""detail_describe"">
+		<ul class=""key clearfix"">
+			<li>
+				开 本：16开
+			</li>
+			<li>
+				纸 张：胶版纸
+			</li>
+			<li>
+				包 装：平装-胶订
+			</li>
+			<li>
+				是否套装：否
+			</li>
+			<li>
+				国际标准书号ISBN：9787111547426
+			</li>
+			<li>
+				丛书名：Java核心技术系列
+			</li>
+			<li class=""clearfix fenlei"" id=""detail-category-path"">
+				所属分类：<span class=""lie""><a target=""_bland"" href=""http://category.dangdang.com/cp01.00.00.00.00.00.html"" class=""green"">图书</a>&gt;<a target=""_bland"" href=""http://category.dangdang.com/cp01.54.00.00.00.00.html"" class=""green"">计算机/网络</a>&gt;<a target=""_bland"" href=""http://category.dangdang.com/cp01.54.06.00.00.00.html"" class=""green"">程序设计</a>&gt;<a target=""_bland"" href=""http://category.dangdang.com/cp01.54.06.06.00.00.html"" class=""green"">Java</a></span>
+			</li>
+		</ul>
+	</div>
+<a name=""operation_point2""></a>&nbsp;
+	<div class=""section"" id=""detail"">
+		<div id=""feature"" class=""section"">
+			<div class=""title"">
+				<span>产品特色</span>
+			</div>
+			<div class=""descrip"">
+				<span id=""feature-all""></span>
+				<p>
+					<img src=""http://img52.ddimg.cn/99999990099985962.jpg"" alt="""" width=""750"" /><img src=""http://product.dangdang.com/28487152.html#ddclick_reco_reco_relate"" alt="""" width=""750"" /><img src=""http://product.dangdang.com/28487152.html#ddclick_reco_reco_relate"" alt="""" width=""750"" /><img src=""http://img55.ddimg.cn/99999990086937665.jpg"" alt="""" width=""750"" />
+				</p>
+			</div>
+		</div>
+		<div id=""abstract"" class=""section"">
+			<div class=""title"">
+				<span>编辑推荐</span>
+			</div>
+			<div class=""descrip"">
+				<span id=""abstract-all""></span>
+				<div>
+					&nbsp;
+				</div>
+				<div>
+					<a href=""http://product.dangdang.com/28487152.html""><img src=""http://img59.ddimg.cn/99999990087884989.jpg"" alt="""" width=""750"" /></a>
+				</div>
+				<div style=""text-align:center;"">
+					<a href=""http://product.dangdang.com/28487152.html""><strong><span style=""color:#3598db;font-size:14pt;"">Java核心技术 卷I 基础知识（原书第11版）全新上市！</span></strong></a>
+				</div>
+				<div style=""text-align:center;"">
+					<a href=""http://product.dangdang.com/28487152.html""><strong><span style=""color:#3598db;font-size:14pt;"">针对Java SE9、10、11全面更新。点击上图或下文链接了解详情：</span></strong></a>
+				</div>
+				<div style=""text-align:center;"">
+					<a href=""http://product.dangdang.com/28487152.html""><strong><span style=""color:#3598db;font-size:14pt;"">http://product.dangdang.com/28487152.html</span></strong></a>
+				</div>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;<a href=""http://product.dangdang.com/28487152.html""> Java领域极有影响力和价值的著作之一，与《Java编程思想》齐名，10余年全球畅销不衰，广受好评 。</a><br />
+<a href=""http://product.dangdang.com/28487152.html""> 第10版根据Java SE 8全面更新，系统全面讲解Java语言的核心概念、语法、重要特性和开发方法，包含大量案例，实践性强 。</a><br />
+<a href=""http://product.dangdang.com/28487152.html""> 一直以来，《Java核心技术》都被认为是面向高级程序员的经典教程和参考书，它内容翔实、客观准确，不拖泥带水，是想为实际应用编写健壮
+ Java代码的程序员的*选。如今，本版进行了全面更新， 以反映近年来人们翘首以待、变革*大的Java版本（Java SE 
+8）的内容。这一版经过重写，并重新组织，全面阐释了新的Java SE 
+8特性、惯用法和*佳实践，其中包含数百个示例程序，所有这些代码都经过精心设计，不仅易于理解，也很容易实际应用。 </a><br />
+<a href=""http://product.dangdang.com/28487152.html""> 本书为专业程序员解决实际问题而写，可以帮助你深入了解Java语言和库。在卷I中，Horstmann主要强调基本语言概念和现代用户界面
+ 编程基础，深入介绍了从Java面向对象编程到泛型、集合、lambda表达式、Swing UI设计以及并发和函数式编程的*新方法等内容。</a> 
+				</p>
+&nbsp;
+			</div>
+		</div>
+		<div id=""content"" class=""section"">
+			<div class=""title"">
+				<span>内容简介</span>
+			</div>
+			<div class=""descrip"">
+				<span id=""content-all""></span>
+				<p>
+					J<a href=""http://product.dangdang.com/28487152.html"">ava领域极有影响力和价值的著作之一，由拥有20多年教学与研究经验的资深Java技术专家撰写(获Jolt大奖)，与《Java编程思想》齐
+ 名，10余年全球畅销不衰，广受好评。第10版根据Java SE 
+8全面更新，同时修正了第9版中的不足，系统全面讲解了Java语言的核心概念、语法、重要特性和开发方法，包含大量案例，实践性强。 </a><br />
+<a href=""http://product.dangdang.com/28487152.html""> 本书共14章。第1章概述Java语言与其他程序设计语言不同的性能；第2章讲解如何下载和安装JDK及本书的程序示例；第3章介绍变量、循
+环和简单的函数；第4章讲解类和封装；第5章介绍继承；第6章解释接口和内部类；第7章讨论异常处理，并给出大量实用的调试技巧；第8章概要介绍泛型程序
+设计；第9章讨论Java平台的集合框架；第10章介绍GUI程序设计，讨论如何建立窗口、如何在窗口中绘图、如何利用几何图形绘图、如何采用多种字体格
+ 式化文本，以及如何显示图像；第11章详细讨论抽象窗口工具包的事件模型；第12章详细讨论Swing 
+GUI工具包；第13章介绍如何将程序部署为应用或applet；第14章讨论并发。本书*后还有一个附录，其中列出了Java语言的保留字。</a>
+				</p>
+			</div>
+		</div>
+		<div id=""authorIntroduction"" class=""section"">
+			<div class=""title"">
+				<span>作者简介</span>
+			</div>
+			<div class=""descrip"">
+				<span id=""authorIntroduction-all""></span>
+				<p>
+					凯
+ S. 霍斯特曼（Cay S. 
+Horstmann），圣何塞州立大学计算机科学系教授、Java的倡导者，经常在开发人员会议上发表演讲。他是《Core Java for the 
+Impatient》（2015）《Java SE 8 for the Really Impatient》（2014）和《Scala for 
+the lmpatient》（2012）的作者，这些书均由Addison-Wesley出版。他为专业程序员和计算机科学专业学生编写过数十本图书。
+				</p>
+			</div>
+		</div>
+		<div id=""catalog"" class=""section"">
+			<div class=""title"">
+				<span>目　　录</span>
+			</div>
+			<div class=""descrip"">
+				<span id=""catalog-show"">译者序 <br />
+前言 <br />
+致谢 <br />
+第1章　Java程序设计概述 1 <br />
+1.1　Java程序设计平台 1 <br />
+1.2　Java“白皮书”的关键术语 2 <br />
+1.2.1　简单性 2 <br />
+1.2.2　面向对象 2 <br />
+1.2.3　分布式 3 <br />
+1.2.4　健壮性 3 <br />
+1.2.5　安全性 3 <br />
+1.2.6　体系结构中立 4 <br />
+1.2.7　可移植性 4 <br />
+1.2.8　解释型 5</span>
+				<div class=""section_show_more"">
+					<a class=""section_show_more"" id=""catalog-btn"">显示全部信息</a>
+				</div>
+			</div>
+		</div>
+		<div id=""preface"" class=""section"">
+			<div class=""title"">
+				<span>前　　言</span>
+			</div>
+			<div class=""descrip"">
+				<span id=""preface-show"">译　者　序 <br />
+书写Java传奇的Sun
+Microsystems曾经堪称“日不落”帝国，但服务器市场的萎缩却让这个声名赫赫的庞大帝国从蓬勃走向落寞。在2009年被Oracle公司收购之
+ 后，Sun公司逐渐淡出了人们的视线，而与此同时，我们也在很长一段时间内没能看到Java当初活跃的身影。 <br />
+Java就这样退出历史舞台了吗？当然不是！从Sun公司2006年12月发布Java
+ 6后，经过5年多的不懈努力，终于在2011年7月底发布了Java 7正式版。3年后，被冠名为“跳票王”的Oracle终于发布了Java 
+8的正式版，但对于很多开发者来说，Java 8却比Java 7来得更漫长一些。主要是因为Oracle原本计划在2013年发布正式版Java 
+8，却因受困于安全性的问题经过了两次“跳票”。无论如何，如今Java 8来了，全新“革命”而不只是“进化”的功能将会让无数开发者动容。 <br />
+值得一提的是，伴随着Java的成长，《Java核心技术》也从第1版到第9版一路走来，得到了广大Java程序设计人员的青睐，成为一本畅
+ 销不衰的Java经典图书。经过几年的蛰伏，针对Java 
+8打造的《Java核心技术》第10版终于问世，这一版有了大幅的修订和更新，以反映Java 
+8增补、删改的内容。它将续写从前的辉煌，使人们能及时跟上Java前进的脚步。</span>
+				<div class=""section_show_more"">
+					<a class=""section_show_more"" id=""preface-btn"">显示全部信息</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class=""title"">
+	价格说明
+</div>
+<ul>
+	<li>
+		<span>当当价：</span>为商品的销售价，具体的成交价可能因会员使用优惠券、银铃铛等发生变化，最终以订单结算页价格为准。
+	</li>
+	<li>
+		<span>划线价：</span>划线价格可能是图书封底定价、商品吊牌价、品牌专柜价或由品牌供应商提供的正品零售价（如厂商指导价、建议零售价等）或该商品曾经展示过的销售价等，由于地区、时间的差异化和市场行情波动，商品吊牌价、品牌专柜价等可能会与您购物时展示的不一致，该价格仅供您参考。
+	</li>
+	<li class=""word2"">
+		<span>折扣：</span>折扣指在划线价（图书定价、商品吊牌价、品牌专柜价、厂商指导价等）某一价格基础上计算出的优惠比例或优惠金额。如有疑问，您可在购买前联系客服咨询。
+	</li>
+	<li class=""word4"">
+		<span>异常问题：</span>如您发现活动商品销售价或促销信息有异常，请立即联系我们补正，以便您能顺利购物。
+	</li>
+</ul>
+<span id=""transmark""></span>"	"2020/2/5 23:13:56"	"2020/2/5 23:13:56"
+"37"	"89"	"Linux就该这么学"	"Linux就该这么学"	"linux入门容易"	"http://localhost:8086/item/158149104531042.html"	"http://192.168.25.133/group1/M00/00/01/wKgZhV5D4CqATWZ0AAC94aYNu9M840.jpg"	""	"快速入门林旭<span id=""transmark""></span><br />"	"2020/2/12 19:23:34"	"2020/2/12 19:23:34"
+"38"	"89"	"人工智能"	"人工智能"	"人工智能"	"http://localhost:8086/item/158150028405046.html"	"http://192.168.25.133/group1/M00/00/01/wKgZhV5D4I-AKuXFAAFGafiQ9xo368.jpg"	""	"人工智能<span id=""transmark""></span>"	"2020/2/12 19:25:07"	"2020/2/12 19:25:07"
+"39"	"89"	"Mysql"	"Mysql"	"Mysql"	"http://localhost:8086/item/158149119413834.html"	"http://192.168.25.133/group1/M00/00/01/wKgZhV5D4PCAA2BTAABiMQU-n60167.jpg"	""	"Mysql<span id=""transmark""></span>"	"2020/2/12 19:26:50"	"2020/2/12 19:26:50"
+"40"	"89"	"深入理解计算机系统"	"深入理解计算机系统"	"深入理解计算机系统"	"http://localhost:8086/item/158149176391262.html"	"http://192.168.25.133/group1/M00/00/01/wKgZhV5D4kmAMx6qAAEN3OdRFJg843.jpg"	""	"深入理解计算机系统<span id=""transmark""></span>"	"2020/2/12 19:32:28"	"2020/2/12 19:32:28"
+"41"	"89"	"HTTP权威指南"	"HTTP权威指南"	"HTTP权威指南"	"http://localhost:8086/item/158151816090576.html"	"http://192.168.25.133/group1/M00/00/01/wKgZhV5EDaqAO-gtAAFw4_1LoyU735.jpg"	""	"HTTP权威指南<span id=""transmark""></span>"	"2020/2/12 22:37:33"	"2020/2/12 22:37:33"
